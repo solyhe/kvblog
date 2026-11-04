@@ -101,6 +101,14 @@
 - 免费版 Workers / KV 有每日请求限额，适合个人博客使用
 - 前台搜索为客户端过滤，仅在当前页范围内匹配
 
+## 截图
+
+
+<img width="1058" height="606" alt="image" src="https://github.com/user-attachments/assets/dc5b3ee9-4abd-4d79-a204-7467b2913aa7" />
+
+<img width="1035" height="590" alt="image" src="https://github.com/user-attachments/assets/5e782c98-b01f-4051-8919-d4ed976aaefe" />
+
+
 ## License
 
 MIT
