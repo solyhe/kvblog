@@ -801,7 +801,7 @@ input[type=password]:focus,input[type=text].pwd-txt:focus{border-color:#667eea;b
     <div class="err-box">⚠️ ${escHtml(errMsg || "")}</div>
     <button type="submit" class="login-btn">登 录</button>
   </form>
-  <p class="login-footer">默认账号 <code>admin</code> 密码 <code>admin888</code> · <a href="/">访问前台 →</a></p>
+  <p class="login-footer"> · <a href="/">访问前台 →</a></p>
 </div>
 <script>
 function togglePwd(){
@@ -1697,6 +1697,7 @@ function topBar(isAdmin) {
   <div class="topbar-inner">
     <a href="/" class="site-logo">📝 日志博客</a>
     <nav class="topbar-nav">
+      <a href="https://github.com/solyhe/kvblog" target="_blank" rel="noopener">项目</a>
       <a href="/">首页</a>
       <a href="/admin/login">后台</a>
     </nav>
